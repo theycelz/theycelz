@@ -2,11 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Eos+Xavier;I'm+20+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
 
-# 💫 About Me:
-🌠 Eos <br> 🌠 he/him ✧ they/them ✧ she/her <br>
-
-##
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/plzeos/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eos-xavier-439095207) 
 
