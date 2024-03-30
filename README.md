@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21D375&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eos+Xavier;I'm+20+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Eos+Xavier;I'm+20+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
 
 # 💫 About Me:
 🌠 Eos <br> 🌠 he/him ✧ they/them ✧ she/her <br>
@@ -39,11 +39,5 @@
 
 ##
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21D375&height=120&section=footer"/>
 
-[![](https://visitcount.itsvg.in/api?id=RayPereiraP&icon=0&color=0)](https://visitcount.itsvg.in)</br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
-
-//colocar hobbies de uma forma divertida - carrosel interativo
