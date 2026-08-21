@@ -157,13 +157,7 @@ research: # ledes/ufms
 
 ## `> neofetch`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theycelz&show_icons=true&hide_border=true&bg_color=00000000&title_color=21D375&icon_color=21D375&text_color=c9d1d9&ring_color=21D375">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theycelz&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=21D375&icon_color=21D375&text_color=333&ring_color=21D375" />
-</picture>&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theycelz&hide_border=true&background=00000000&ring=21D375&fire=21D375&currStreakLabel=21D375&sideLabels=c9d1d9&dates=586069">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=theycelz&hide_border=true&background=ffffff00&ring=21D375&fire=21D375&currStreakLabel=21D375&sideLabels=333&dates=999" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theycelz&theme=github_dark" width="49%"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theycelz&theme=github_dark&utcOffset=-4" width="49%"/>
 
 <br/><br/>
 
@@ -199,32 +193,44 @@ research: # ledes/ufms
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![rampart-framework](https://github-readme-stats.vercel.app/api/pin/?username=DATA-UFMS&repo=rampart-framework&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/DATA-UFMS/rampart-framework)
+### [rampart-framework](https://github.com/DATA-UFMS/rampart-framework) <img src="https://img.shields.io/badge/python-21D375?style=flat-square&logoColor=0d1117" align="right"/>
 
-</td>
-<td width="50%">
+Reproducible benchmarking of data processing paradigms (DuckDB, Polars, Dask) with automated anti-leakage verification. Bitwise-identical predictions or the pipeline fails.
 
-[![pbi-grid](https://github-readme-stats.vercel.app/api/pin/?username=OESNPG&repo=pbi-grid&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/OESNPG/pbi-grid)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![copilot-sprint-review](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=copilot-sprint-review&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/copilot-sprint-review)
+`SBBD 2026 · lead author · best-short-papers session`
 
 </td>
 <td width="50%" valign="top">
 
-### `> cat publications.bib`
+### [pbi-grid](https://github.com/OESNPG/pbi-grid) <img src="https://img.shields.io/badge/python-21D375?style=flat-square&logoColor=0d1117" align="right"/>
 
-**Rampart** · SBBD 2026 · lead author, best-short-papers session · [repo](https://github.com/DATA-UFMS/rampart-framework)
+Dashboard-as-Code for Power BI: declarative YAML compiled into PBIR by a deterministic 12-column grid engine. [Live at CAPES](https://agendanacional.capes.gov.br/capacity) · [DOI](https://doi.org/10.5281/zenodo.21462034)
 
-**PBI Grid** · SBES 2026 tools track · [repo](https://github.com/OESNPG/pbi-grid) · [live @ CAPES](https://agendanacional.capes.gov.br/capacity) · [DOI](https://doi.org/10.5281/zenodo.21462034)
+`SBES 2026 · tools track · in production`
 
-**Branching Echoes** · VEM 2026 (CBSoft) · [accepted papers](https://vemworkshop.github.io/vem2026/acceptedPapers.html)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [copilot-sprint-review](https://github.com/theycelz/copilot-sprint-review) <img src="https://img.shields.io/badge/study-21D375?style=flat-square&logoColor=0d1117" align="right"/>
+
+Experimental analysis of GitHub Copilot's impact on code review: 95% merge-time reduction, tested with Mann-Whitney U and Cohen's d.
+
+`empirical software engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### `> cat publications.bib` <img src="https://img.shields.io/badge/3_accepted-21D375?style=flat-square&logoColor=0d1117" align="right"/>
+
+**Rampart** · SBBD 2026 · lead author
+
+**PBI Grid** · SBES 2026 tools track
+
+**Branching Echoes** · VEM 2026, CBSoft · [accepted papers](https://vemworkshop.github.io/vem2026/acceptedPapers.html)
 
 </td>
 </tr>
