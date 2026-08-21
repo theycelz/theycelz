@@ -1,5 +1,5 @@
 <!--
-  src: github.com/theycelz | last-modified: 2026
+  src: github.com/theycelz | last-modified: 2026-08
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:21D375&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
@@ -11,17 +11,7 @@
 
 <br/>
 
-<!-- Dark/Light mode aware badges using <picture> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</picture>&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/@plzeos-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <img alt="Instagram" src="https://img.shields.io/badge/@plzeos-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</picture>&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=theycelz&color=21D375&style=for-the-badge&label=VIEWS">
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=theycelz&color=21D375&style=for-the-badge&label=VIEWS">
-</picture>
+<a href="https://www.linkedin.com/in/eos-xavier-439095207/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="https://www.instagram.com/plzeos/"><img alt="Instagram" src="https://img.shields.io/badge/@plzeos-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;<img alt="Views" src="https://komarev.com/ghpvc/?username=theycelz&color=21D375&style=for-the-badge&label=VIEWS">
 
 </div>
 
@@ -31,8 +21,8 @@
 $ cat /etc/motd
 ```
 
-> SRE and automation engineer based in Campo Grande/MS, Brazil.
-> B.Sc. Software Engineering, UFMS '25.
+> Site Reliability Engineer at Seazone, software engineering researcher at LEDES/UFMS.
+> B.Sc. Software Engineering, UFMS '25. Three papers accepted in 2026.
 > I like breaking prod so I can learn how to fix it faster next time.
 
 <br/>
@@ -46,19 +36,19 @@ $ cat /etc/motd
 ### `> systemctl status sre`
 
 ```yaml
-role: site reliability engineer
+role: site reliability engineer @ seazone
 location: Campo Grande/MS, Brazil
-degree: B.Sc. Software Engineering (UFMS)
+degree: B.Sc. Software Engineering (UFMS '25)
 
 focus:
-  - incident response & on-call
-  - finops (GCP + AWS)
-  - workflow automation (n8n/K8s)
-  - infrastructure as code
+  - aws + kubernetes/eks in production
+  - ci/cd + sast gates (github actions)
+  - self-service platform tooling
+  - incident response & rca
 
-interests:
+research: # ledes/ufms
+  - reproducible data-arch benchmarking
   - community smells in ML teams
-  - data arch benchmarking
 ```
 
 </td>
@@ -68,17 +58,18 @@ interests:
 
 ```json
 {
-  "research": {
-    "paper": "DuckDB vs Dask benchmarking",
-    "venue": "SBBD",
-    "status": "submitted"
-  },
-  "interests": [
-    "SRE culture & practices",
-    "data engineering pipelines",
-    "self-hosted automation (n8n on K8s)",
-    "linux ricing"
-  ]
+  "papers_2026": [
+    { "name": "Rampart",
+      "venue": "SBBD", "role": "lead author",
+      "status": "accepted" },
+    { "name": "PBI Grid",
+      "venue": "SBES tools track",
+      "status": "accepted" },
+    { "name": "Branching Echoes",
+      "venue": "VEM @ CBSoft",
+      "status": "accepted" }
+  ],
+  "in_production": "pbi-grid renders a CAPES public dashboard"
 }
 ```
 
@@ -103,8 +94,7 @@ interests:
 <b>infrastructure</b>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=terraform,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -112,51 +102,48 @@ interests:
 <b>languages</b>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=c,elixir&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bash,c&theme=dark" />
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<b>observability</b>
+<b>observability & data</b>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=redis,rabbitmq&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
 <b>tooling</b>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,githubactions&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=neovim&theme=dark" />
 <br/><br/>
 </td>
 </tr>
 </table>
 
 <details>
-<summary><kbd>   MORE TOOLS   </kbd></summary>
+<summary><kbd>   MORE TOOLS   </kbd></summary>
 <br/>
 
 ```
 ╔══════════════════╦═══════════════════════════════════════════════╗
-║ orchestration    ║ kubectl · ArgoCD · Helm · Kustomize          ║
+║ orchestration    ║ kubectl · ArgoCD · Helm · kubeconform         ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ automation       ║ n8n (self-hosted/K8s) · Kestra · boto3       ║
+║ automation       ║ n8n (self-hosted/K8s) · AWS Lambda · boto3    ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ finops           ║ GCP Budget Policies · AWS Cost Explorer       ║
-║                  ║ Resource Tagging · boto3                      ║
+║ finops           ║ AWS Cost Explorer · budgets · tagging         ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ integrations     ║ Slack Bots · Jira Automation · Pipefy         ║
+║ delivery         ║ GitHub Actions · SAST gates · Cloudflare      ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ data             ║ DuckDB · Dask · Pandas · PostgreSQL           ║
+║ data             ║ DuckDB · Polars · Dask · Spark · Glue         ║
+║                  ║ Athena · Pandas · PostgreSQL                  ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
 ║ linux            ║ Archcraft · EndeavourOS · Omarchy             ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ observability    ║ Grafana · Prometheus · Datadog                ║
+║ observability    ║ Grafana · Prometheus · Loki                   ║
 ╚══════════════════╩═══════════════════════════════════════════════╝
 ```
 
@@ -202,7 +189,7 @@ interests:
 
 <br/>
 
-<!-- PINNED PROJECTS -->
+<!-- PROJECTS + PUBLICATIONS -->
 
 <div align="center">
 
@@ -214,24 +201,30 @@ interests:
 <tr>
 <td width="50%">
 
-[![Literary-Text-Categorization](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=Literary-Text-Categorization&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/Literary-Text-Categorization)
+[![rampart-framework](https://github-readme-stats.vercel.app/api/pin/?username=DATA-UFMS&repo=rampart-framework&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/DATA-UFMS/rampart-framework)
 
 </td>
 <td width="50%">
 
-[![SortAnalyzer](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=SortAnalyzer&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/SortAnalyzer)
+[![pbi-grid](https://github-readme-stats.vercel.app/api/pin/?username=OESNPG&repo=pbi-grid&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/OESNPG/pbi-grid)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![cut-rod-problem](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=cut-rod-problem&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/cut-rod-problem)
+[![copilot-sprint-review](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=copilot-sprint-review&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/copilot-sprint-review)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![copilot-sprint-review](https://github-readme-stats.vercel.app/api/pin/?username=theycelz&repo=copilot-sprint-review&hide_border=true&bg_color=0d1117&title_color=21D375&icon_color=21D375&text_color=c9d1d9)](https://github.com/theycelz/copilot-sprint-review)
+### `> cat publications.bib`
+
+**Rampart** · SBBD 2026 · lead author, best-short-papers session · [repo](https://github.com/DATA-UFMS/rampart-framework)
+
+**PBI Grid** · SBES 2026 tools track · [repo](https://github.com/OESNPG/pbi-grid) · [live @ CAPES](https://agendanacional.capes.gov.br/capacity) · [DOI](https://doi.org/10.5281/zenodo.21462034)
+
+**Branching Echoes** · VEM 2026 (CBSoft) · [accepted papers](https://vemworkshop.github.io/vem2026/acceptedPapers.html)
 
 </td>
 </tr>
@@ -239,12 +232,12 @@ interests:
 
 <br/>
 
-<!-- PROFILE SUMMARY CARDS (replaces trophies) -->
+<!-- PROFILE SUMMARY CARDS -->
 
 <div align="center">
 
 <details>
-<summary><kbd>   PROFILE SUMMARY   </kbd></summary>
+<summary><kbd>   PROFILE SUMMARY   </kbd></summary>
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theycelz&theme=github_dark" width="95%"/>
