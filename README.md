@@ -136,7 +136,7 @@ research: # ledes/ufms
 ╠══════════════════╬═══════════════════════════════════════════════╣
 ║ finops           ║ AWS Cost Explorer · budgets · tagging         ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
-║ delivery         ║ GitHub Actions · SAST gates · Cloudflare      ║
+║ delivery         ║ GitHub Actions · SAST/IaC gates · Terraform   ║
 ╠══════════════════╬═══════════════════════════════════════════════╣
 ║ data             ║ DuckDB · Polars · Dask · Spark · Glue         ║
 ║                  ║ Athena · Pandas · PostgreSQL                  ║
