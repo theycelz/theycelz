@@ -208,7 +208,7 @@ Reproducible benchmarking of data processing paradigms (DuckDB, Polars, Dask) wi
 
 Dashboard-as-Code for Power BI: declarative YAML compiled into PBIR by a deterministic 12-column grid engine. [Live at CAPES](https://agendanacional.capes.gov.br/capacity) · [DOI](https://doi.org/10.5281/zenodo.21462034)
 
-`SBES 2026 · tools track · in production`
+`SBES 2026 · tools track · second author · in production`
 
 </td>
 </tr>
@@ -228,9 +228,9 @@ Experimental analysis of GitHub Copilot's impact on code review: 95% merge-time 
 
 **Rampart** · SBBD 2026 · lead author
 
-**PBI Grid** · SBES 2026 tools track
+**PBI Grid** · SBES 2026 tools track · second author
 
-**Branching Echoes** · VEM 2026, CBSoft · [accepted papers](https://vemworkshop.github.io/vem2026/acceptedPapers.html)
+**Branching Echoes** · VEM 2026, CBSoft · second author · [accepted papers](https://vemworkshop.github.io/vem2026/acceptedPapers.html)
 
 </td>
 </tr>
